@@ -19,6 +19,9 @@ export function Hero() {
             A microcontroller-based system that reads a digital temperature sensor and reports
             accurate, real-time measurements — written in C/C++ and built with PlatformIO.
           </p>
+          <p className="font-mono text-sm text-primary">
+            Built with PlatformIO and Arduino-compatible hardware.
+          </p>
           <div className="flex flex-wrap items-center gap-3">
             <a
               href={site.githubRepoUrl}
