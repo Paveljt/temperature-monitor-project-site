@@ -13,7 +13,7 @@ export function Hero() {
             Embedded Systems Project
           </p>
           <h1 className="text-balance text-5xl font-semibold tracking-tight md:text-7xl">
-            Temperature <span className="text-primary">Monitor</span>
+            Temperature Monitor — Embedded Systems Project
           </h1>
           <p className="max-w-lg text-pretty text-lg leading-relaxed text-muted-foreground">
             A microcontroller-based system that reads a digital temperature sensor and reports

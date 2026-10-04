@@ -36,12 +36,12 @@
 :root {
   color-scheme: dark;
   /* Deep PCB-solder-mask blue, thermal amber, and a cool cyan for "cold" readings */
-  --background: oklch(0.17 0.025 250);
-  --foreground: oklch(0.96 0.006 250);
-  --card: oklch(0.205 0.028 250);
-  --card-foreground: oklch(0.96 0.006 250);
-  --popover: oklch(0.205 0.028 250);
-  --popover-foreground: oklch(0.96 0.006 250);
+  --background: oklch(0.13 0.045 255);
+  --foreground: oklch(0.96 0.012 245);
+  --card: oklch(0.17 0.05 255);
+  --card-foreground: oklch(0.96 0.012 245);
+  --popover: oklch(0.17 0.05 255);
+  --popover-foreground: oklch(0.96 0.012 245);
   --primary: oklch(0.79 0.155 68);
   --primary-foreground: oklch(0.17 0.025 250);
   --secondary: oklch(0.25 0.03 250);
